@@ -1,0 +1,13 @@
+seaborn
+matplotlib
+numpy
+torch
+scipy
+pandas
+sklearn
+glob
+time
+copy
+shutil
+torchvision
+-e.
